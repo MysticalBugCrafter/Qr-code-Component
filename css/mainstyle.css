@@ -22,7 +22,8 @@ main {
 
 article {        
     display: flex;
-    width: 350px;    
+    width: 325px;  
+    height: 400px;;  
     flex-direction: column;
     align-items: center;
     background-color: hsl(0, 0%, 100%);
